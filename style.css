@@ -19,7 +19,7 @@ body {
     min-height: 0vh;
     text-align: center;
     text-decoration: underline;
-    box-shadow: -10px 10px 90px #f20040;
+    box-shadow: -10px 10px 90px #eb406d;
     animation: heart 0.8s linear infinite;
 }
 
