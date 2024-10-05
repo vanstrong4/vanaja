@@ -3,7 +3,8 @@
 
 body {
     font-family: 'indie flower', cursive !important;
-    background: #fDE3A7;
+    /* background: #fDE3A7; */
+    background: #FFC0CB;
     margin: 0px;
     padding: 0px;
 }
@@ -81,6 +82,52 @@ h4 {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.pencet {
+    color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.textco{
+    position: relative;
+    width: 1475px;
+    margin: 0 auto;
+}
+
+.t {
+   left: 2%;
+   width: 180px;
+   height: 100%;
+   position: relative;
+   margin-right: auto;
+}
+
+.t2{
+    right: 2%;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.colort{
+    font-size: 18px;
+    margin-right: auto;
+    width: 180px;
+    flex-direction: row;
+    color: antiquewhite;
+}
+
+.right{ 
+    margin: 1px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 18px;
+    color: antiquewhite;
 }
 
 .card {
